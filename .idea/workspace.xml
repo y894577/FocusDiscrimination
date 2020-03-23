@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec1cca35-1632-4119-91f0-726a3e2da454" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yn1sV0fVKUskJJxctZb43C9QZH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/picture_data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A_test\picture_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="A_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="A_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\anaconda\conda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="A_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\anaconda\conda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualize" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="A_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\anaconda\conda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.visualize" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1cca35-1632-4119-91f0-726a3e2da454" name="Default Changelist" comment="" />
+      <created>1583563750937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583563750937</updated>
+      <workItem from="1583563754976" duration="21000" />
+      <workItem from="1583563777247" duration="15865000" />
+      <workItem from="1583674253416" duration="6914000" />
+      <workItem from="1583752249189" duration="11430000" />
+      <workItem from="1583846157473" duration="5017000" />
+      <workItem from="1583851195166" duration="267000" />
+      <workItem from="1583851635198" duration="929000" />
+      <workItem from="1583852926685" duration="93000" />
+      <workItem from="1584529937540" duration="58000" />
+      <workItem from="1584878205297" duration="1569000" />
+      <workItem from="1584879899272" duration="10823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="70" key="#Notifications" timestamp="1584879653187">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="362" y="70" key="#Notifications/0.0.1536.821@0.0.1536.821" timestamp="1584879653187" />
+    <state x="225" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584878860598">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="225" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.821@0.0.1536.821" timestamp="1584878860598" />
+    <state x="549" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583850508648">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="549" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.821@0.0.1536.821" timestamp="1583850508648" />
+    <state x="500" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584883128053">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="500" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.821@0.0.1536.821" timestamp="1584883128053" />
+    <state width="608" height="438" key="DebuggerActiveHint" timestamp="1584880657172">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="608" height="438" key="DebuggerActiveHint/0.0.1536.821@0.0.1536.821" timestamp="1584880657172" />
+    <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1583758179209">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="550" y="166" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1583758179209" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1584891501259">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1584891501259" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1584891501260">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.821@0.0.1536.821" timestamp="1584891501260" />
+    <state x="-165" y="46" key="SettingsEditor" timestamp="1584529985175">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="-165" y="46" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1584529985175" />
+    <state x="404" y="116" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1584878542264">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="404" y="116" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.821@0.0.1536.821" timestamp="1584878542264" />
+    <state x="334" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584880463020">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="334" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.821@0.0.1536.821" timestamp="1584880463020" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VideoDisplay.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VideoDisplay.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A_test$test.coverage" NAME="test Coverage Results" MODIFIED="1584878478421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/A_test$main.coverage" NAME="main Coverage Results" MODIFIED="1584891110177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
